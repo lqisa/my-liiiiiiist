@@ -6,6 +6,11 @@
   
   > 拓展阅读 [Composition Event](https://developer.mozilla.org/en-US/docs/Web/API/Element/compositionstart_event)
 
+### animation lib
+
+- [code-surfer](https://github.com/pomber/code-surfer)
+  
+  > Example: [build-your-own-react](https://pomb.us/build-your-own-react/)
 ...
 
 

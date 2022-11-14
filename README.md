@@ -34,3 +34,8 @@
 - MarkText
   
   > Free Markdown
+  
+- [rectangle](https://rectangleapp.com/)
+  > window management shortcuts
+  
+  个人配置：maximize 最大化（等同于zoom）

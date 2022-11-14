@@ -27,15 +27,15 @@
   
   > 窗口管理 插拔显示器恢复窗口状态
   
-- Paste / Maccy
+- Paste / Maccy（free）
   
   > 粘贴板管理
   
-- MarkText
+- MarkText（free）
   
-  > Free Markdown
+  > Markdown
   
-- [rectangle](https://rectangleapp.com/)
+- [rectangle](https://rectangleapp.com/) （free）
   > window management shortcuts
   
   个人配置：maximize 最大化（等同于zoom）

@@ -27,6 +27,11 @@
   
   > 窗口管理 插拔显示器恢复窗口状态
   
+- [Rectangle](https://rectangleapp.com/) （free）
+  > 窗口管理 
+  个人配置：maximize 最大化 & 切换窗口（等同于zoom）
+  合规问题 替代上述 Stay
+  
 - Paste / Maccy（free）
   
   > 粘贴板管理
@@ -34,8 +39,3 @@
 - MarkText（free）
   
   > Markdown
-  
-- [rectangle](https://rectangleapp.com/) （free）
-  > window management shortcuts
-  
-  个人配置：maximize 最大化（等同于zoom）

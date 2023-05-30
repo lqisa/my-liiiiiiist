@@ -43,3 +43,6 @@
 - MarkText（free）
   
   > Markdown
+
+- [eul](https://github.com/gao-sun/eul)
+  > https://github.com/gao-sun/eul

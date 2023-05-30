@@ -45,4 +45,7 @@
   > Markdown
 
 - [eul](https://github.com/gao-sun/eul)
-  > https://github.com/gao-sun/eul
+  > 🖥️ macOS status monitoring app written in SwiftUI.
+
+- [stats](https://github.com/exelban/stats)
+  > macOS system monitor in your menu bar

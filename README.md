@@ -49,3 +49,6 @@
 
 - [stats](https://github.com/exelban/stats)
   > macOS system monitor in your menu bar
+  
+### windows
+- [clink](https://github.com/chrisant996/clink) windows cmd 历史支持

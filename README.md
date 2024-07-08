@@ -51,4 +51,8 @@
   > macOS system monitor in your menu bar
   
 ### windows
+- [Magpie](https://github.com/Blinue/Magpie) 黄油/视频高分
 - [clink](https://github.com/chrisant996/clink) windows cmd 历史支持
+- [netlimiter](https://www.aliyundrive.com/s/6dZzLyUkRtV) 网速控制(火绒替代品)
+- [Locansend](https://localsend.org/) 文件互传
+- [KDE Connet](https://kdeconnect.kde.org/download.html) 多设备协同

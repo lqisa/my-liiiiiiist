@@ -56,3 +56,4 @@
 - [netlimiter](https://www.aliyundrive.com/s/6dZzLyUkRtV) 网速控制(火绒替代品)
 - [Locansend](https://localsend.org/) 文件互传
 - [KDE Connet](https://kdeconnect.kde.org/download.html) 多设备协同
+- [lux](https://github.com/iawia002/lux) 视频下载

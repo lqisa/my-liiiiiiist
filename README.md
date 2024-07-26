@@ -57,3 +57,12 @@
 - [Locansend](https://localsend.org/) 文件互传
 - [KDE Connet](https://kdeconnect.kde.org/download.html) 多设备协同
 - [lux](https://github.com/iawia002/lux) 视频下载
+- [Filezilla New Version Prompt](https://forum.filezilla-project.org/viewtopic.php?t=37001)
+> Edit `filezilla.xml`
+> Search for a setting like this (example, not the same)
+>
+> ```<Setting name="Update Check New Version">xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</Setting>```
+>
+> Change to
+> 
+> ```<Setting name="Update Check New Version" />```

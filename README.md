@@ -66,3 +66,6 @@
 > Change to
 > 
 > ```<Setting name="Update Check New Version" />```
+>
+
+- [简朴](https://github.com/ismartcoding/plain-app/tree/main) 手机电脑协同（localsend增强版）

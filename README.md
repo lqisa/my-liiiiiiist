@@ -51,6 +51,7 @@
   > macOS system monitor in your menu bar
   
 ### windows
+- [WinThumbsPreloader](https://github.com/bruhov/WinThumbsPreloader)
 - [Magpie](https://github.com/Blinue/Magpie) 黄油/视频高分
 - [clink](https://github.com/chrisant996/clink) windows cmd 历史支持
 - [netlimiter](https://www.aliyundrive.com/s/6dZzLyUkRtV) 网速控制(火绒替代品)

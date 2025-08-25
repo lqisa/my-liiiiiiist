@@ -51,6 +51,7 @@
   > macOS system monitor in your menu bar
   
 ### windows
+- [GestureSign](https://github.com/TransposonY/GestureSign) 手势自定义
 - [WinThumbsPreloader](https://github.com/bruhov/WinThumbsPreloader)
 - [Magpie](https://github.com/Blinue/Magpie) 黄油/视频高分
 - [clink](https://github.com/chrisant996/clink) windows cmd 历史支持
